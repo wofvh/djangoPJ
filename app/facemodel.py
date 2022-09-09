@@ -287,4 +287,3 @@ class FaceMesh:
         하나 문제라면 팔랑귀 떄문에 주변사람을 조심해야합니다.'
         
         return result
-
